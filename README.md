@@ -124,6 +124,7 @@ Customers with frequent support issues are at higher risk
 
 Certain payment methods are associated with higher churn
 
+
 ✅ Recommendations
 
 Encourage long-term contracts through incentives
