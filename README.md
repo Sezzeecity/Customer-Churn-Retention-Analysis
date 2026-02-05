@@ -134,6 +134,7 @@ Improve customer support responsiveness
 
 Review pricing strategies for high-risk segments
 
+
 🛠 Tools & Technologies
 
 SQL: Data cleaning, transformation, KPI calculation
